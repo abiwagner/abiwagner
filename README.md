@@ -35,6 +35,11 @@ Soy profesional en Informática con especialización en **Análisis de Datos y B
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
+### Microsoft Fabric 🌐
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Dataflow Gen2](https://img.shields.io/badge/Dataflow_Gen2-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ---
 
 ## 📈 Business Intelligence
@@ -60,6 +65,12 @@ Mi especialización incluye un sólido conocimiento en modelado dimensional:
 - 📱 **Power Apps** — Creación de aplicaciones empresariales conectadas a fuentes de datos.
 - 🤖 **Power Automate** — Automatización de flujos de trabajo y notificaciones basadas en datos.
 
+## 🌐 Microsoft Fabric
+
+- 🏗️ **Microsoft Fabric** — Construcción de soluciones de datos end-to-end, desde la ingesta hasta el reporte, integrando capas bronce, plata y oro.
+- ⚡ **PySpark en Fabric** — Procesamiento y transformación de grandes volúmenes de datos con PySpark dentro del ecosistema Fabric.
+- 🔀 **Dataflow Gen2** — Diseño de flujos de transformación visual para pipelines de datos modernos en Fabric.
+
 ---
 
 ## 🎯 Enfoque profesional
@@ -68,23 +79,11 @@ Me especializo en conectar el mundo técnico con el negocio: entender qué neces
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abiwagner&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5E72FF&icon_color=5E72FF&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiwagner&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5E72FF&text_color=ffffff)
-
-</div>
-
----
-
 ## 🤝 Conectemos
 
 ¡Estoy abierta a colaborar en proyectos de datos, BI o automatización!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abiwagner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiwagner/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abiwagner)
 
 ---
