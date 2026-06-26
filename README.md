@@ -8,7 +8,7 @@
 
 ## Acerca de mí 🔍
 
-Soy profesional en Informática con especialización en **Análisis de Datos y Business Intelligence**, con experiencia en el diseño de soluciones de datos que ayudan a las empresas a tomar mejores decisiones. Me apasiona transformar datos crudos en reportes claros, tableros interactivos y procesos automatizados.
+Soy especialista en **Análisis de Datos y Business Intelligence**, con experiencia en el diseño de soluciones de datos que ayudan a las empresas a tomar mejores decisiones. Me apasiona transformar datos crudos en reportes claros, tableros interactivos y procesos automatizados.
 
 ---
 
