@@ -89,9 +89,5 @@ Me especializo en conectar el mundo técnico con el negocio: entender qué neces
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abiwagner&color=5E72FF&style=flat-square&label=Visitas+al+perfil" alt="profile views" />
-</div>
-
-<div align="center">
   <i>¡Gracias por visitar mi perfil! Los datos tienen historias que contar 📊</i>
 </div>
